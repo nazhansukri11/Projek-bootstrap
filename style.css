@@ -1,0 +1,10 @@
+.hero-area {
+  padding-top: 100px;
+  background: rgb(253, 158, 5);
+  color: rgb(0, 0, 0);
+  min-height: 300px;
+}
+footer {
+  background-color: black;
+  color: aliceblue;
+}
